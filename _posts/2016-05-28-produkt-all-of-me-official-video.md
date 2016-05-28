@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/wE3P42Rdj0Q'
 title: 'Produkt - All Of Me [OFFICIAL VIDEO]'
-datePublished: '2016-05-28T19:05:04.291Z'
-dateModified: '2016-05-28T18:52:53.769Z'
+datePublished: '2016-05-28T19:06:49.806Z'
+dateModified: '2016-05-28T19:00:54.558Z'
 starred: false
 sourcePath: _posts/2016-05-28-produkt-all-of-me-official-video.md
 inFeed: true
