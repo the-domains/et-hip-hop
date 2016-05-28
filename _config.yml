@@ -1,4 +1,3 @@
-layout_spectrum: 0.9143538519274443
 typography_spectrum: 0.9574560415931046
 color:
   brandStrength: 0.9531141347251832
@@ -11,4 +10,9 @@ color:
     - '#B1E001'
     - '#CEF09D'
     - '#476C5E'
+layout_spectrum: 0.9143538519274443
+author:
+  name: Ethan Barsketis
+  email: etbars@hotmail.com
 name: E.T. Hip Hop
+title: The Hip Hop Authority
