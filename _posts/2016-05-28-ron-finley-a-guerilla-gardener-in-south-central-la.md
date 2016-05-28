@@ -71,8 +71,8 @@ app_links:
     name: TED
 isBasedOnUrl: 'http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la?language=en'
 title: ''
-datePublished: '2016-05-28T19:20:45.667Z'
-dateModified: '2016-05-28T19:14:05.703Z'
+datePublished: '2016-05-28T19:33:35.923Z'
+dateModified: '2016-05-28T19:13:28.836Z'
 starred: false
 sourcePath: _posts/2016-05-28-ron-finley-a-guerilla-gardener-in-south-central-la.md
 inFeed: true
