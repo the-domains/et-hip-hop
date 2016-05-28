@@ -4,8 +4,14 @@
         <description><![CDATA[E.T. Hip Hop]]></description>
         <link>https://thegrid.ai/et-hip-hop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 19:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 19:33:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/et-hip-hop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ron Finley: A guerilla gardener in South Central LA]]></title>
+            <link>http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la?language=en</link>
+            <guid isPermaLink="false">3acc1ee1-7327-40ec-9356-6a8336b9da4e</guid>
+            <pubDate>Sat, 28 May 2016 19:33:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ron Finley: A guerilla gardener in South Central LA]]></title>
             <link>http://www.ted.com/talks/ron_finley_a_guerilla_gardener_in_south_central_la?language=en</link>
@@ -67,13 +73,6 @@
             <link>https://www.youtube.com/watch?v=lDthtLCzhhw</link>
             <guid isPermaLink="false">d18ea243-55bd-4572-81c4-fe8a7295a6e2</guid>
             <pubDate>Sat, 28 May 2016 19:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watch Mobb Deep's Havoc Cut Up Three Records on Rhythm Roulette]]></title>
-            <description><![CDATA[<article><h1>Watch Mobb Deep's Havoc Cut Up Three Records on Rhythm Roulette</h1><p>The Mobb Deep producer cuts up three records for our newest episode. Share You don't need us to confirm that The Infamous is one of the greatest albums of all time, and a huge part of that is due to the eerie strings that loom through the production. Havoc did that.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3153a696b2be16406d16ec47e7d745d2276bc718.jpg"></article>]]></description>
-            <link>http://massappeal.com/rhythm-roulette-with-havoc/</link>
-            <guid isPermaLink="false">24eeb776-db14-4254-be04-23699fc4119d</guid>
-            <pubDate>Sat, 28 May 2016 19:06:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
