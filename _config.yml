@@ -11,6 +11,8 @@ color:
     - '#CEF09D'
     - '#476C5E'
 layout_spectrum: 0.9143538519274443
+analytics:
+  google: UA-78415674-1
 author:
   name: Ethan Barsketis
   email: etbars@hotmail.com
