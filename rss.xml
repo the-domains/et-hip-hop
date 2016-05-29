@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[E.T. Hip Hop]]></title>
-        <description><![CDATA[E.T. Hip Hop]]></description>
+        <title><![CDATA[The Hip Hop Authority]]></title>
+        <description><![CDATA[The Hip Hop Authority]]></description>
         <link>https://thegrid.ai/et-hip-hop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 19:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 00:15:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/et-hip-hop/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[THE RAP LECTURE | MrLegenDarius]]></title>
+            <description><![CDATA[<article><h1>THE RAP LECTURE | MrLegenDarius</h1><p>Thanks for watching guys! S/o to @KHALIL for the Young Thug instrumental Check out more skits here! https://www.youtube.com/playlist?list=PLejalOww0AdNDXvcH1iR23GIU62Px8IMV Make sure you SUBSCRIBE for weekly videos! I'm also on Instagram: MrLegenDarius Twitter: @MrLegenDarius Snapchat: MrLegenDarius Facebook: www.facebook.com/mrlegendarius Musically: @DariusBenson</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/058c3561ff07d5f8508aa13364013a078ea14e0a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=pkVdeNA6q1w</link>
+            <guid isPermaLink="false">eb12faec-706c-4fdb-b64e-d0486750a422</guid>
+            <pubDate>Sun, 29 May 2016 00:15:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ron Finley: A guerilla gardener in South Central LA]]></title>
-            <description><![CDATA[<article><h1>Ron Finley: A guerilla gardener in South Central LA</h1><p>Ron Finley plants vegetable gardens in South Central LA -- in abandoned lots, traffic medians, along the curbs. Why? For fun, for defiance, for beauty and to offer some alternative to fast food in a community where "the drive-thrus are killing more people than the drive-bys."</p></article>]]></description>
+            <description><![CDATA[<article><h1>Ron Finley: A guerilla gardener in South Central LA</h1><p>Ron Finley plants vegetable gardens in South Central LA -- in abandoned lots, traffic medians, along the curbs. Why? For fun, for defiance, for beauty and to offer some alternative to fast food in a community where "the drive-thrus are killing more people than the drive-bys."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0bfe3e497bd888422f067ff3875619a5ca03f6e.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=EzZzZ_qpZ4w</link>
             <guid isPermaLink="false">a2f7faeb-8f4e-4976-aeb2-28823c143b26</guid>
             <pubDate>Sat, 28 May 2016 19:51:27 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=R5yDFpUK558</link>
             <guid isPermaLink="false">cf371b9e-6a0f-44c8-a4d9-02442194b13b</guid>
             <pubDate>Sat, 28 May 2016 19:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aspiration - Do Well. Do Good.]]></title>
-            <description><![CDATA[<article><h1>Aspiration - Do Well. Do Good.</h1><p>Aspiration is an investment firm created for the middle class, committed to giving, and built on trust.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/961e7ac218332f3781deb7eda2c38fee4441c24f.jpg"></article>]]></description>
-            <link>https://www.aspiration.com/</link>
-            <guid isPermaLink="false">f143c547-7dcf-4e56-8bc2-cac8a5ded258</guid>
-            <pubDate>Sat, 28 May 2016 19:11:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
