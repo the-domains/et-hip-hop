@@ -4,8 +4,15 @@
         <description><![CDATA[The Hip Hop Authority]]></description>
         <link>https://thegrid.ai/et-hip-hop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 17:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 05:42:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/et-hip-hop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The pleasure of poetic pattern - David Silverstein]]></title>
+            <description><![CDATA[<article><h1>The pleasure of poetic pattern - David Silverstein</h1><p>View full lesson: http://ed.ted.com/lessons/the-pleasure-of-poetic-pattern-david-silverstein Humans are creatures of rhythm and repetition. From our breath to our gait: rhythm is central to our experience, and often brings us pleasure. We can find pleasure in the rhythm of a song, or even the rows of an orchard. Of course, too much repetition can also backfire.</p></article>]]></description>
+            <link>https://youtu.be/URuMb15CWJs</link>
+            <guid isPermaLink="false">0dabbcad-2173-4f25-9b9e-59d4f82adeba</guid>
+            <pubDate>Fri, 03 Jun 2016 05:40:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1777f129-3ffb-4862-aa16-6c6bcce021c5.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=pkVdeNA6q1w</link>
             <guid isPermaLink="false">eb12faec-706c-4fdb-b64e-d0486750a422</guid>
             <pubDate>Sun, 29 May 2016 00:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ron Finley: A guerilla gardener in South Central LA]]></title>
-            <description><![CDATA[<article><h1>Ron Finley: A guerilla gardener in South Central LA</h1><p>Ron Finley plants vegetable gardens in South Central LA -- in abandoned lots, traffic medians, along the curbs. Why? For fun, for defiance, for beauty and to offer some alternative to fast food in a community where "the drive-thrus are killing more people than the drive-bys."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0bfe3e497bd888422f067ff3875619a5ca03f6e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=EzZzZ_qpZ4w</link>
-            <guid isPermaLink="false">a2f7faeb-8f4e-4976-aeb2-28823c143b26</guid>
-            <pubDate>Sat, 28 May 2016 19:51:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
