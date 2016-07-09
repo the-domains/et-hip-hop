@@ -17,15 +17,23 @@ keywords:
   - phase
   - dorsolateral
   - fmri
-description: 'Rappers improvising rhymes while their brains are being scanned in a functional magnetic resonance imaging (fMRI) machine have provided an insight into the creative process. The scientists published their findings in the journal Scientific Reports . Freestyle rapping, in which a rapper improvises a song by stringing together unrehearsed lyrics, is one of the highest prized skills in hip hop.'
+description: >-
+  Rappers improvising rhymes while their brains are being scanned in a
+  functional magnetic resonance imaging (fMRI) machine have provided an insight
+  into the creative process. The scientists published their findings in the
+  journal Scientific Reports . Freestyle rapping, in which a rapper improvises a
+  song by stringing together unrehearsed lyrics, is one of the highest prized
+  skills in hip hop.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://scitechdaily.com/brain-scans-of-rappers-during-improvisation-show-creativity-at-work/'
+isBasedOnUrl: >-
+  http://scitechdaily.com/brain-scans-of-rappers-during-improvisation-show-creativity-at-work/
 title: Brain Scans of Rappers During Improvisation Show Creativity At Work
-datePublished: '2016-05-28T19:08:11.215Z'
-dateModified: '2016-05-28T19:07:26.157Z'
-starred: false
-sourcePath: _posts/2016-05-28-brain-scans-of-rappers-during-improvisation-show-creativity.md
+datePublished: '2016-07-09T22:27:16.179Z'
+dateModified: '2016-07-09T22:27:15.265Z'
+sourcePath: >-
+  _posts/2016-05-28-brain-scans-of-rappers-during-improvisation-show-creativity.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
