@@ -10,14 +10,18 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 keywords: []
-description: 'Ron Finley plants vegetable gardens in South Central LA -- in abandoned lots, traffic medians, along the curbs. Why? For fun, for defiance, for beauty and to offer some alternative to fast food in a community where "the drive-thrus are killing more people than the drive-bys."'
+description: >-
+  Ron Finley plants vegetable gardens in South Central LA -- in abandoned lots,
+  traffic medians, along the curbs. Why? For fun, for defiance, for beauty and
+  to offer some alternative to fast food in a community where "the drive-thrus
+  are killing more people than the drive-bys."
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=EzZzZ_qpZ4w'
 title: 'Ron Finley: A guerilla gardener in South Central LA'
-datePublished: '2016-05-28T19:51:27.101Z'
-dateModified: '2016-05-28T19:51:21.161Z'
-starred: false
+datePublished: '2016-07-09T22:26:54.702Z'
+dateModified: '2016-07-09T22:26:52.571Z'
 sourcePath: _posts/2016-05-28-ron-finley-a-guerilla-gardener-in-south-central-la.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
