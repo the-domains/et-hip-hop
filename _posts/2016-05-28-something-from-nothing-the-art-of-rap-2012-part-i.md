@@ -10,14 +10,19 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 keywords: []
-description: "SOMETHING FROM NOTHING: THE ART OF RAP is a feature length performance documentary about the runaway juggernaut that is Rap music. At the wheel of this unstoppable beast is the film's director and interviewer Ice-T. Taking us on a deeply personal journey Ice-T uncovers how this music of the street has grown to dominate the world."
+description: >-
+  SOMETHING FROM NOTHING: THE ART OF RAP is a feature length performance
+  documentary about the runaway juggernaut that is Rap music. At the wheel of
+  this unstoppable beast is the film's director and interviewer Ice-T. Taking us
+  on a deeply personal journey Ice-T uncovers how this music of the street has
+  grown to dominate the world.
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Oz8yg06xiJs'
 title: 'Something from Nothing: The Art of Rap (2012) Part I'
-datePublished: '2016-05-28T19:50:01.064Z'
-dateModified: '2016-05-28T19:49:48.016Z'
-starred: false
+datePublished: '2016-07-09T22:27:03.523Z'
+dateModified: '2016-07-09T22:27:02.548Z'
 sourcePath: _posts/2016-05-28-something-from-nothing-the-art-of-rap-2012-part-i.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
